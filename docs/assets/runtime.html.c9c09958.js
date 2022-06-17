@@ -1,0 +1,1 @@
+import{_ as t,o as r,c as a,a as e,d as n}from"./app.8d3bbff2.js";const c={},_=e("h1",{id:"_2-runtime",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#_2-runtime","aria-hidden":"true"},"#"),n(" 2.Runtime")],-1),o=[_];function s(i,d){return r(),a("div",null,o)}var u=t(c,[["render",s],["__file","runtime.html.vue"]]);export{u as default};

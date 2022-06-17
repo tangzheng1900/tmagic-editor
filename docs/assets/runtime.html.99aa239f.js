@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-719d4c8e","path":"/tutorial/runtime.html","title":"2.Runtime","lang":"zh-CN","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"tutorial/runtime.md"}');export{t as data};
